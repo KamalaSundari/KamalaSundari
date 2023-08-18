@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi... Hello there! 👋 I'm Kamala Sundari and excited to share a bit about myself with you.
+
+- 🔭 I’m currently working as a Software Engineer at OpenTurf Technologies.
+- 🌱 I’m currently learning Backend with Nodejs.
+- 👯 I’m looking to collaborate on innovative projects that push the boundaries of Full Stack web development.
+- 💬 Ask me about ReactJs
+- 📫 How to reach me: kamalasundarraj99@gmail.com
 
 <!--
 **KamalaSundari/KamalaSundari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
