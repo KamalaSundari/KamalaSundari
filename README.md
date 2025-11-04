@@ -1,5 +1,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kamala-sundari&label=Profile%20Visitors&color=ff69b4&style=for-the-badge)
 
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamala-sundari&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamala-sundari&theme=tokyonight)
+
 
 ### Hi... Hello there! 👋 I'm Kamala Sundari and excited to share a bit about myself with you.
 
