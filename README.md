@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=kamala-sundari&label=Profile%20Visitors&color=ff69b4&style=for-the-badge)
+
+
 ### Hi... Hello there! 👋 I'm Kamala Sundari and excited to share a bit about myself with you.
 
 - 🔭 I’m currently working as a Software Engineer at OpenTurf Technologies.
