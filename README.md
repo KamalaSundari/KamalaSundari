@@ -1,6 +1,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=kamala-sundari&label=Profile%20Visitors&color=ff69b4&style=for-the-badge)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kamala-sundari.kamala-sundari)
-
 
 ### Hi... Hello there! 👋 I'm Kamala Sundari and excited to share a bit about myself with you.
 
