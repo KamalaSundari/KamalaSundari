@@ -8,8 +8,6 @@
 - 💬 Ask me about ReactJs
 - 📫 How to reach me: kamalasundarraj99@gmail.com
 
-  ## 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamala-sundari&layout=compact&theme=gruvbox)
 
 <!--
 **KamalaSundari/KamalaSundari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
